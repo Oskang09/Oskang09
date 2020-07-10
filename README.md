@@ -64,6 +64,8 @@ Showcase: [Drive](https://drive.google.com/drive/folders/1NopY_ONu5Q-z8x_n_Qnu09
 
 * C# WinForm
 
-- DawnTech Payroll System
-- HaoProgram - Car Shop Management
-- [Crackshot Builder - a editor for minecraft plugin](https://www.spigotmc.org/resources/%E3%80%90visual-c-%E3%80%91crackshot-builder.34634/)
+DawnTech Payroll System
+
+HaoProgram - Car Shop Management
+
+[Crackshot Builder - a editor for minecraft plugin](https://www.spigotmc.org/resources/%E3%80%90visual-c-%E3%80%91crackshot-builder.34634/)
