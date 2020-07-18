@@ -44,6 +44,11 @@ TotoScraper is a golang utility for scrapping toto data from some existing websi
 
 *This is personal private project if interest on this can drop me a PM.*
 
+
+* UniversalGUI - java & kotlin minecraft plugin project
+
+Highly customization of shop plugin for customize your shop requirement, reward and display. Update your shop without shutting down server or via API. Supported many third party plugins like economy plugins, weapon plugins.
+
 ### :notebook: Past Projects
 
 * Gath Mobile Application - Diploma FYP
