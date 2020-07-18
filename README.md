@@ -16,7 +16,7 @@ Hi, I'm Oska - A Passionate & Freelance FullStack Developer. I have started my c
 * LoL
 * Minecraft
 
-### :mailbox: Socials
+### :mailbox: Social
 
 * Facebook - [Oska Ng Sze Chen](https://www.facebook.com/oskaszechen)
 * LinkedIn - [Oska Ng](https://www.linkedin.com/in/oskang09/)
