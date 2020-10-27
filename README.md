@@ -8,7 +8,7 @@ Hi, I'm Oska - A Passionate & Freelance FullStack Developer. I have started my c
 * Game Development - Unity, [ Java & Kotlin in MinecraftAPI ]
 * Backend - NodeJS, C#, Java, Kotlin, Dart, GoLang
 * Database - Microsoft Access, MySQL, SQLite, PostgreSQL, MongoDB
-* CI - Github Actions, Gitlab Runner
+* CI / CD - Github Actions, Gitlab Runner
 * Deployment - Heroku, AWS, Docker, Firebase ( Hosting, Functions ), Digital Ocean, Serverless, Kubernetes
 
 ### :video_game: Games
