@@ -67,10 +67,19 @@ This just a simple parking application come with some features like qrcode regis
 
 Showcase: [Drive](https://drive.google.com/drive/folders/1NopY_ONu5Q-z8x_n_Qnu09Fg03EbOqbY)
 
+* Eternal Century - Minecraft Game Server Customization
+
+This is build plugins using java / kotlin to customize the default behaviour from minecraft. Come with a lot of homemade feaure, such as item system for like enhancing pve & pvp experience. gui system for selling & buying items from npc. npc system to support multi feature such as storage, item repairing, title, auction and questing. Simple daily questing & weekly questing and also boss spawning & custom event automatically based on specific time in UTC+8. 
+
+Tech: Java & Kotlin
+ShowCase: [Youtube](https://www.youtube.com/watch?v=88AhuKOagXM)
+
 * C# WinForm
 
-DawnTech Payroll System
+DawnTech Payroll System ( Private )
 
-HaoProgram - Car Shop Management
+HaoProgram - Car Shop Management ( Private )
+
+[KOne - Phone Shop Management](https://youtu.be/gLfiBly1WtU)
 
 [Crackshot Builder - a editor for minecraft plugin](https://www.spigotmc.org/resources/%E3%80%90visual-c-%E3%80%91crackshot-builder.34634/)
