@@ -30,13 +30,19 @@ Hi, I'm Oska - A Passionate & Freelance FullStack Developer. I have started my c
 
 A vscode extension for transforming color code to proper language syntax, currently only dart is supported. Any suggestion or PR is welcome.
 
+---
+
 * Oscrud - Golang Restful API Wrapper Framework 
 
 Oscrud is a golang resftul api wrapper framework. The purpose of the framework is make everything independent like transport, authentication, middleware and parser. So we can change the component to what we want anytime without changing code. This framework is inspired from FeathersJS. Currently framework still under development, any suggestion or PR is welcome.
 
+---
+
 * digdata - lightweight zero dependency object data utility
 
 Digdata is a javascript utility library to get data easier from a complex data object or array. It's lightweight and zero dependency also added support for browser script tag. 
+
+---
 
 * TotoScraper - golang scraper project
 
@@ -44,6 +50,7 @@ TotoScraper is a golang utility for scrapping toto data from some existing websi
 
 *This is personal private project if interest on this can drop me a PM.*
 
+---
 
 * UniversalGUI - java & kotlin minecraft plugin project
 
@@ -61,11 +68,15 @@ Backend : [NodeJS](https://github.com/Oskang09/Gath-Backend)
 
 Showcase : [Drive](https://drive.google.com/drive/folders/1XAfKoMLN6OpLp-XhTyLwnYBGCZ_YZ6CB)
 
+---
+
 * Qpark - Mobile Application
 
 This just a simple parking application come with some features like qrcode registration ( bind to owner ), remind the owner. This application is just a prototype so don't have really good design. Basically integration with firebase for supporting push notification & sms service.
 
 Showcase: [Drive](https://drive.google.com/drive/folders/1NopY_ONu5Q-z8x_n_Qnu09Fg03EbOqbY)
+
+---
 
 * Eternal Century - Minecraft Game Server Customization
 
@@ -75,12 +86,34 @@ Tech: Java & Kotlin
 
 ShowCase: [Youtube](https://www.youtube.com/watch?v=88AhuKOagXM)
 
-* C# WinForm
+---
 
-DawnTech Payroll System ( Private )
+* DawnTech Payroll System ( Private )
 
-HaoProgram - Car Shop Management ( Private )
+Simple payroll functionality like employee information, employee salary calculation ( epf socso ), leave record, ot record. Integration with ZKTECO's Excel record to create employee automatically and update employee information for track employee working hour.
 
-[KOne - Phone Shop Management](https://youtu.be/gLfiBly1WtU)
+Tech: C# WinForm
 
-[Crackshot Builder - a editor for minecraft plugin](https://www.spigotmc.org/resources/%E3%80%90visual-c-%E3%80%91crackshot-builder.34634/)
+---
+
+* HaoProgram - Car Shop Management ( Private )
+
+Simple car management software using C# Windows Form. Building a local filesystem database with json formatted. A basic pos functionality like product creation, customer information, selling product & stock management. Reminder for customer information ( car service ).
+
+Tech: C# WinForm
+
+---
+
+* KOne - Phone Shop Management
+
+Showcase: [Youtube](https://youtu.be/gLfiBly1WtU)
+
+Tech: C# WinForm
+
+---
+
+* Crackshot Builder - a editor for minecraft plugin
+
+Showcase: [SpigotMC](https://www.spigotmc.org/resources/%E3%80%90visual-c-%E3%80%91crackshot-builder.34634/)
+
+Tech: C# WinForm
