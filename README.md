@@ -72,6 +72,7 @@ Showcase: [Drive](https://drive.google.com/drive/folders/1NopY_ONu5Q-z8x_n_Qnu09
 This is build plugins using java / kotlin to customize the default behaviour from minecraft. Come with a lot of homemade feaure, such as item system for like enhancing pve & pvp experience. gui system for selling & buying items from npc. npc system to support multi feature such as storage, item repairing, title, auction and questing. Simple daily questing & weekly questing and also boss spawning & custom event automatically based on specific time in UTC+8. 
 
 Tech: Java & Kotlin
+
 ShowCase: [Youtube](https://www.youtube.com/watch?v=88AhuKOagXM)
 
 * C# WinForm
