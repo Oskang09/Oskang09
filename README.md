@@ -33,6 +33,8 @@ Hi, I'm Oska - A Passionate & Freelance FullStack Developer. I have started my c
 
 A vscode extension for transforming color code to proper language syntax, currently only dart is supported. Any suggestion or PR is welcome.
 
+![](https://github-readme-stats.vercel.app/api/pin/?username=Oskang09&repo=autocolor&theme=dracula)
+
 ---
 
 * Oscrud - Golang Restful API Wrapper Framework 
