@@ -72,9 +72,7 @@ Highly customization of shop plugin for customize your shop requirement, reward 
 
 Project mainly is for event management. It contains basic feature like create event, edit event, close event, start event. Every users can create event & join event, and every event end user can review the event and users. Basic profile management also included. As extra, we added basic voucher system & firebase integration for push notificaiton support ( when event changed ). There also have a backend admin portal for editing & views data.
 
-Frontend : [React Native](https://github.com/Oskang09/Gath-Frontend)
-
-Backend : [NodeJS](https://github.com/Oskang09/Gath-Backend)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Oskang09&repo=Gath-Frontend&theme=dracula) ![](https://github-readme-stats.vercel.app/api/pin/?username=Oskang09&repo=Gath-Backend&theme=dracula)
 
 Showcase : [Drive](https://drive.google.com/drive/folders/1XAfKoMLN6OpLp-XhTyLwnYBGCZ_YZ6CB)
 
