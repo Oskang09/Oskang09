@@ -39,12 +39,15 @@ A vscode extension for transforming color code to proper language syntax, curren
 
 Oscrud is a golang resftul api wrapper framework. The purpose of the framework is make everything independent like transport, authentication, middleware and parser. So we can change the component to what we want anytime without changing code. This framework is inspired from FeathersJS. Currently framework still under development, any suggestion or PR is welcome.
 
+![](https://github-readme-stats.vercel.app/api/pin/?username=oscrud&repo=oscrud&theme=dracula)
+
 ---
 
 * digdata - lightweight zero dependency object data utility
 
 Digdata is a javascript utility library to get data easier from a complex data object or array. It's lightweight and zero dependency also added support for browser script tag. 
 
+![](https://github-readme-stats.vercel.app/api/pin/?username=Oskang09&repo=digdata&theme=dracula)
 ---
 
 * TotoScraper - golang scraper project
@@ -58,6 +61,8 @@ TotoScraper is a golang utility for scrapping toto data from some existing websi
 * UniversalGUI - java & kotlin minecraft plugin project
 
 Highly customization of shop plugin for customize your shop requirement, reward and display. Update your shop without shutting down server or via API. Supported many third party plugins like economy plugins, weapon plugins.
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=Oskang09&repo=UniversalGUI&theme=dracula)
 
 ### :notebook: Past Projects
 
@@ -107,7 +112,7 @@ Tech: C# WinForm
 
 ---
 
-* KOne - Phone Shop Management
+* KOne - Phone Shop Management ( Private )
 
 Showcase: [Youtube](https://youtu.be/gLfiBly1WtU)
 
