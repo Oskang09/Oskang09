@@ -2,7 +2,7 @@
 
 Hi, I'm Oska - A Passionate & Freelance FullStack Developer. I have started my career from secondary school by self taught and currently able to working on multiple platform such as web, mobile, desktop app, backend, devops, game development and also arduino & rasberry-pi apps. Currently i'm also working with *Dart*, *React*, *Flutter*, *C#*, *Java & Kotlin*, *NodeJS* and *Golang*. I'm also play video games with friends when i'm free and to have relax too.
 
-![](https://github-readme-stats.vercel.app/api?username=Oskang09&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskang09&theme=dracula) ![](https://github-readme-stats.vercel.app/api?username=Oskang09&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true)
 
 ### :pencil: Skills
 
