@@ -27,6 +27,10 @@ Hi, I'm Oska - A Passionate & Freelance FullStack Developer. I have started my c
 * Discord - Oskang09#4170
 * Steam - [oskang09](https://steamcommunity.com/id/oskang09/)
 
+### :trophy: Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Oskang09&theme=dracula&margin-w=10)
+
 ### :newspaper: Working Projects
 
 * AutoColor - Convert color code to proper syntax based on different languages
