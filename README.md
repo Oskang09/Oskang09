@@ -114,6 +114,8 @@ Simple car management software using C# Windows Form. Building a local filesyste
 
 Tech: C# WinForm
 
+ShowCase: [Youtube](https://drive.google.com/drive/folders/1CTzMIuIJC3h2FGcANVIpcs3Yjcxdw6k_?usp=sharing)
+
 ---
 
 * KOne - Phone Shop Management ( Private )
