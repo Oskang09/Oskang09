@@ -120,14 +120,14 @@ ShowCase: [Youtube](https://drive.google.com/drive/folders/1CTzMIuIJC3h2FGcANVIp
 
 * KOne - Phone Shop Management ( Private )
 
-Showcase: [Youtube](https://youtu.be/gLfiBly1WtU)
-
 Tech: C# WinForm
+
+Showcase: [Youtube](https://youtu.be/gLfiBly1WtU)
 
 ---
 
 * Crackshot Builder - a editor for minecraft plugin
 
-Showcase: [SpigotMC](https://www.spigotmc.org/resources/%E3%80%90visual-c-%E3%80%91crackshot-builder.34634/)
-
 Tech: C# WinForm
+
+Showcase: [SpigotMC](https://www.spigotmc.org/resources/%E3%80%90visual-c-%E3%80%91crackshot-builder.34634/)
