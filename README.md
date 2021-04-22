@@ -43,9 +43,10 @@ A vscode extension for transforming color code to proper language syntax, curren
 
 * Oscrud - Golang Restful API Wrapper Framework 
 
-Oscrud is a golang resftul api wrapper framework. The purpose of the framework is make everything independent like transport, authentication, middleware and parser. So we can change the component to what we want anytime without changing code. This framework is inspired from FeathersJS. Currently framework still under development, any suggestion or PR is welcome.
+Oscrud is a grpc + json framework. The purpose of this framework is let developer can easily development microservice architecture applications. This framework included built-in CLI and tools for enhance development experience. Currently framework is still under development, any suggestion or PR is welcome.
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=oscrud&repo=oscrud&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/pin/?username=oscrud&repo=core&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/pin/?username=oscrud&repo=geliver&theme=dracula)
 
 ---
 
