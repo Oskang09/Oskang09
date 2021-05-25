@@ -26,6 +26,7 @@ Hi, I'm Oska - A Passionate, FullStack Developer. I have started my career from 
 * DevTo - [@oskang09](https://dev.to/oskang09)
 * Discord - Oskang09#4170
 * Steam - [oskang09](https://steamcommunity.com/id/oskang09/)
+* About Her - [OskaYuzy](https://love.oskadev.com)
 
 ### :trophy: Trophies
 
