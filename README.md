@@ -34,6 +34,14 @@ Hi, I'm Oska - A Passionate, FullStack Developer. I have started my career from 
 
 ### :newspaper: Working Projects
 
+* Discord Toolbox - Personal discord toolbox utility
+
+A discord toolbox for speed up development and problem fixes, mainly for personal usage you can host your own too as per step in repository readme.
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=Oskang09&repo=toolbox-discord&theme=dracula)
+
+---
+
 * AutoColor - Convert color code to proper syntax based on different languages
 
 A vscode extension for transforming color code to proper language syntax, currently only dart is supported. Any suggestion or PR is welcome.
