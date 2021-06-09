@@ -12,8 +12,6 @@ Hi, I'm Oska - A Passionate, FullStack Developer. I have started my career from 
 * Steam - [oskang09](https://steamcommunity.com/id/oskang09/)
 * Mail - [Oska Ng](mailto:question@oskadev.com)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskang09&theme=dracula&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=Oskang09&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true)
-
 ### :pencil: Skills
 
 * Frontend - React, ReactNative, Flutter, C# ( Desktop & Web )
@@ -22,6 +20,8 @@ Hi, I'm Oska - A Passionate, FullStack Developer. I have started my career from 
 * Database - Microsoft Access, MySQL, SQLite, PostgreSQL, MongoDB
 * CI / CD - Github Actions, Gitlab Runner
 * Deployment - Heroku, AWS, Docker, Firebase ( Hosting, Functions ), Digital Ocean, Serverless, Kubernetes
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskang09&theme=dracula&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=Oskang09&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true)
 
 ### :trophy: Trophies
 
