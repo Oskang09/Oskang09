@@ -106,7 +106,7 @@ This is build plugins using java / kotlin to customize the default behaviour fro
 
 Tech: Java & Kotlin
 
-ShowCase: [Youtube](https://www.youtube.com/watch?v=88AhuKOagXM)
+ShowCase: [Youtube](https://www.youtube.com/watch?v=TGLFg32Wwg0&list=PLpOYlLVWxXbHUf1kV70M84N0mQvsyTeJP)
 
 ---
 
