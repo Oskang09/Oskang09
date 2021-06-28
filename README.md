@@ -12,6 +12,7 @@ Hi, I'm Oska - A Passionate, FullStack Developer. I have started my career from 
 * Steam - [oskang09](https://steamcommunity.com/id/oskang09/)
 * Mail - [Oska Ng](mailto:question@oskadev.com)
 
+### 🕒 Wakatime
 <!--START_SECTION:waka-->
 ```text
 Kotlin   32 hrs 9 mins   █████████████▓░░░░░░░░░░░   54.19 % 
