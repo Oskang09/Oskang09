@@ -13,6 +13,13 @@ Hi, I'm Oska - A Passionate, FullStack Developer. I have started my career from 
 * Mail - [Oska Ng](mailto:question@oskadev.com)
 
 <!--START_SECTION:waka-->
+```text
+Kotlin   32 hrs 9 mins   █████████████▓░░░░░░░░░░░   54.19 % 
+Go       13 hrs 2 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 % 
+JSON     6 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+YAML     5 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+SQL      1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+```
 <!--END_SECTION:waka-->
 
 ### :pencil: Skills
