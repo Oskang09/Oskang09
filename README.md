@@ -12,6 +12,9 @@ Hi, I'm Oska - A Passionate, FullStack Developer. I have started my career from 
 * Steam - [oskang09](https://steamcommunity.com/id/oskang09/)
 * Mail - [Oska Ng](mailto:question@oskadev.com)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### :pencil: Skills
 
 * Frontend - React, ReactNative, Flutter, C# ( Desktop & Web )
