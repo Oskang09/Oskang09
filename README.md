@@ -1,6 +1,6 @@
 ### :boy: Oska Ng
 
-Hi, I'm Oska - A Passionate, FullStack Developer. I have started my career from secondary school by self taught and currently able to working on multiple platform such as web, mobile, desktop app, backend, devops, game development and also arduino & rasberry-pi apps. Currently i'm also working with *Dart*, *React*, *Flutter*, *C#*, *Java & Kotlin*, *NodeJS* and *Golang*. I'm also play video games with friends when i'm free and to have relax too.
+Hi, I'm Oska - A Passionate Software Engineer, Software Architect. I have started my career from secondary school by self taught and currently able to working on multiple platform such as web, mobile, desktop app, backend, devops, game development and also arduino & rasberry-pi apps. Currently i'm also working with *Dart*, *React*, *Flutter*, *C#*, *Java & Kotlin*, *NodeJS* and *Golang*. I'm also play video games with friends when i'm free and to have relax too.
 
 ### :mailbox: Social
 
