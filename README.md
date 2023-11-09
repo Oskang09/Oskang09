@@ -1,6 +1,8 @@
 ### :boy: Oska Ng
 
-Hi, I'm Oska - A Passionate Software Engineer, Software Architect. I have started my career from secondary school by self taught and currently able to working on multiple platform such as web, mobile, desktop app, backend, devops, game development and also arduino & rasberry-pi apps. Currently i'm also working with *Dart*, *React*, *Flutter*, *C#*, *Java & Kotlin*, *NodeJS* and *Golang*. I'm also play video games with friends when i'm free and to have relax too.
+Hello, I'm Oska, a passionate Software Engineer & Software Architect. With a deep understanding of modern languages, technology stacks, and frameworks, I am well-versed in Dart, C#, Kotlin/Java, JavaScript, and Go. My enthusiasm for technology extends to various domains, including web, mobile, desktop, backend, and DevOps. I take pride in successfully integrating more than 15+ payment methods, encompassing wallets, online banking, card payments, and more. Additionally, I actively contribute to enhancing developers' productivity and reducing unnecessary workloads through the creation of efficient toolchains and architecture designs.
+
+In summary, I am a dynamic and dedicated professional, leveraging my diverse skill set to optimize technology solutions, resulting in seamless and productive development experiences.
 
 ### :mailbox: Social
 
@@ -12,14 +14,7 @@ Hi, I'm Oska - A Passionate Software Engineer, Software Architect. I have starte
 * Steam - [oskang09](https://steamcommunity.com/id/oskang09/)
 * Mail - [Oska Ng](mailto:question@oskadev.com)
 
-### :pencil: Skills
-
-* Frontend - React, ReactNative, Flutter, C# ( Desktop & Web )
-* Game Development - Unity, [ Java & Kotlin in MinecraftAPI ]
-* Backend - NodeJS, C#, Java, Kotlin, Dart, GoLang
-* Database - Microsoft Access, MySQL, SQLite, PostgreSQL, MongoDB
-* CI / CD - Github Actions, Gitlab Runner
-* Deployment - Heroku, AWS, Docker, Firebase ( Hosting, Functions ), Digital Ocean, Serverless, Kubernetes
+### :pencil: Commits
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskang09&theme=dracula&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=Oskang09&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true)
 
