@@ -9,10 +9,6 @@ In summary, I am a dynamic and dedicated professional, leveraging my diverse ski
 * Personal - [Oska Ng](https://www.oskadev.com)
 * Blog - [OskaDev](https://blog.oskadev.com)
 * About Her - [OskaYuzy](https://love.oskadev.com)
-* LinkedIn - [Oska Ng](https://www.linkedin.com/in/oskang09/)
-* Discord - Oskang09#4170
-* Steam - [oskang09](https://steamcommunity.com/id/oskang09/)
-* Mail - [Oska Ng](mailto:inquiry@oskadev.com)
 
 ### :pencil: Commits
 
