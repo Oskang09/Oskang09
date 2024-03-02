@@ -6,7 +6,7 @@ In summary, I am a dynamic and dedicated professional, leveraging my diverse ski
 
 ### :mailbox: Social
 
-* Facebook - [Oska Ng Sze Chen](https://www.facebook.com/oskaszechen)
+* Personal - [Oska Ng](https://www.oskadev.com)
 * Blog - [OskaDev](https://blog.oskadev.com)
 * About Her - [OskaYuzy](https://love.oskadev.com)
 * LinkedIn - [Oska Ng](https://www.linkedin.com/in/oskang09/)
