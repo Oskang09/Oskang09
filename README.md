@@ -12,7 +12,7 @@ In summary, I am a dynamic and dedicated professional, leveraging my diverse ski
 * LinkedIn - [Oska Ng](https://www.linkedin.com/in/oskang09/)
 * Discord - Oskang09#4170
 * Steam - [oskang09](https://steamcommunity.com/id/oskang09/)
-* Mail - [Oska Ng](mailto:question@oskadev.com)
+* Mail - [Oska Ng](mailto:inquiry@oskadev.com)
 
 ### :pencil: Commits
 
