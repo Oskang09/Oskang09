@@ -7,7 +7,6 @@ In summary, I am a dynamic and dedicated professional, leveraging my diverse ski
 ### :mailbox: Social
 
 * Personal - [Oska Ng](https://www.oskadev.com)
-* Blog - [OskaDev](https://blog.oskadev.com)
 * About Her - [OskaYuzy](https://love.oskadev.com)
 
 ### :pencil: Commits
