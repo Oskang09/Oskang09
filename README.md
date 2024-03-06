@@ -6,8 +6,8 @@ In summary, I am a dynamic and dedicated professional, leveraging my diverse ski
 
 ### :mailbox: Social
 
-* Personal - [Oska Ng](https://www.oskadev.com)
-* About Her - [OskaYuzy](https://love.oskadev.com)
+* Hidden Me - [Oska Ng](https://www.oskadev.com)
+* Lovely Her - [OskaYuzy](https://love.oskadev.com)
 
 ### :pencil: Commits
 
