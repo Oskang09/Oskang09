@@ -5,6 +5,8 @@
   </div>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/f5a5c420-e38e-40ba-a772-97dc7533b81a.svg)](https://wakatime.com/@f5a5c420-e38e-40ba-a772-97dc7533b81a)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Oskang09&show_icons=true&include_all_commits=true&theme=dracula&hide_title=true" />
 
 ### :mailbox: Social
