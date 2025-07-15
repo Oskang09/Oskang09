@@ -19,13 +19,13 @@
   <p></p>
 </div>
 
-<a target="_blank" href="https://www.linkedin.com/in/oskang09/"><img src="https://www.oskadev.com/assets/images/logo-linkedin.png" alt="LinkedIn" width="48" height="48"></a>
-<a target="_blank" href="https://www.facebook.com/oskaszechen/"><img src="https://www.oskadev.com/assets/images/logo-facebook.png" alt="Facebook" width="48" height="48"></a>
-<a target="_blank" href="https://twitter.com/oska_ng"><img src="https://www.oskadev.com/assets/images/logo-twitter.png" alt="Twitter" width="48" height="48"></a>
-<a target="_blank" href="https://www.instagram.com/oska_0714/"><img src="https://www.oskadev.com/assets/images/logo-instagram.png" alt="Instagram" width="48" height="48"></a>
-<a target="_blank" href="https://steamcommunity.com/id/oskang09/"><img src="https://www.oskadev.com/assets/images/logo-steam.png" alt="Steam" width="48" height="48"></a>
-<a target="_blank" href="https://discordapp.com/users/140747193664536576"><img src="https://www.oskadev.com/assets/images/logo-discord.png" alt="Discord" width="48" height="48"></a>
-<a href="mailto:inquiry@oskadev.com"><img src="https://www.oskadev.com/assets/images/logo-email.png" alt="Email" width="48" height="48"></a>
+<a target="_blank" href="https://www.linkedin.com/in/oskang09/"><img src="https://cdn.oskadev.com/assets/images/logo-linkedin.png" alt="LinkedIn" width="48" height="48"></a>
+<a target="_blank" href="https://www.facebook.com/oskaszechen/"><img src="https://cdn.oskadev.com/assets/images/logo-facebook.png" alt="Facebook" width="48" height="48"></a>
+<a target="_blank" href="https://twitter.com/oska_ng"><img src="https://cdn.oskadev.com/assets/images/logo-twitter.png" alt="Twitter" width="48" height="48"></a>
+<a target="_blank" href="https://www.instagram.com/oska_0714/"><img src="https://cdn.oskadev.com/assets/images/logo-instagram.png" alt="Instagram" width="48" height="48"></a>
+<a target="_blank" href="https://steamcommunity.com/id/oskang09/"><img src="https://cdn.oskadev.com/assets/images/logo-steam.png" alt="Steam" width="48" height="48"></a>
+<a target="_blank" href="https://discordapp.com/users/140747193664536576"><img src="https://cdn.oskadev.com/assets/images/logo-discord.png" alt="Discord" width="48" height="48"></a>
+<a href="mailto:inquiry@oskadev.com"><img src="https://cdn.oskadev.com/assets/images/logo-email.png" alt="Email" width="48" height="48"></a>
 
 
 
